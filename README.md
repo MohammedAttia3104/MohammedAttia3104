@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**
 
-- 🤝 I’m looking for **part time job**
+- 🤝 I’m looking for **a part time job**
 
 - 💬 Ask me about **Flutter , Dart**
 
